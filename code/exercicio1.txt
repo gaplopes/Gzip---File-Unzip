@@ -1,0 +1,3 @@
+HLIT = 19
+HDIST = 22
+HCLEN = 10
